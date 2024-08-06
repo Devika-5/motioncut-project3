@@ -1,0 +1,103 @@
+*{
+    margin: 0%;
+    padding:0%
+}
+
+nav{
+    background-color: black;
+    color: aqua;
+    padding: 20px;
+}
+li,ul{
+    display: inline;
+    
+}
+ul{
+    margin-left: 580px;
+}
+li{
+    color: blanchedalmond;
+    cursor: pointer;
+}
+li:hover{
+    color: grey;
+}
+.box{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 225px;
+    margin-top: 20px;
+    
+}
+.one{
+    background-color: black;
+    color: blueviolet;
+    display: inline-block;
+    
+}
+.two{
+    background-color: black;
+    color: blueviolet;
+    display: inline-block;
+}
+.three{
+    background-color: black;
+    color: blueviolet;
+    display: inline-block;
+}
+.four{
+    background-color: black;
+    color: blueviolet;
+    display: inline-block;
+}
+.Receipes{
+    text-align: center;
+}
+.one:hover{
+    color: blanchedalmond;
+}
+.two:hover{
+    color: blanchedalmond;
+}
+.three:hover{
+    color: blanchedalmond;
+}
+.four:hover{
+    color: blanchedalmond;
+}
+.Contact{
+display: block;
+background-color: black;
+color: blanchedalmond;
+margin-top: 20px;
+padding: 20px;
+
+}
+.Contact h2{
+    color: aqua;
+    margin-left:630px ;
+    margin-top: 10px;
+}
+
+form{
+    color: aqua;
+    padding-top: 20px;
+    padding-left: 550px;
+    
+}
+::placeholder{
+    text-align: center;
+}
+ 
+button{
+    margin-left: 655px;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: aqua;
+    border-radius:8px;
+    border-color: aqua;
+}
+
+
